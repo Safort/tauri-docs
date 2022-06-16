@@ -2,7 +2,12 @@
 sidebar_position: 1
 ---
 
+import DocCard from '@theme/DocCard'
+
 # Introduction
+
+// It needs to be something like this, but not sure what the right format for item should be
+<DocCard item="guides/getting-started/prerequisites"/>
 
 ## Quick Overview
 
